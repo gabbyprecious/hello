@@ -1,0 +1,12 @@
+beautifulsoup4
+matplotlib
+textblob
+flask
+gunicorn
+spacy
+urllib3
+nltk
+requests
+pandas
+gingerit
+random2
